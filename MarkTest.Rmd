@@ -1,0 +1,14 @@
+---
+title: "GitHubTest"
+author: "Johannes Udsen"
+date: "23/2/2021"
+output: html_document
+---
+This is a test of my skills
+
+```{r}
+2 + 2
+```
+
+
+
